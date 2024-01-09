@@ -18,7 +18,7 @@ metadata:
   namespace: default
 spec:
   interval: 30s
-  path: ./
+  path: ./dev
   prune: true
   sourceRef:
     kind: GitRepository
